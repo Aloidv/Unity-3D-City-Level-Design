@@ -1,8 +1,7 @@
 # Unity 3D City Level Design
-Cel Shading Prototype and Level Design
+✨ Cel Shading Prototype and Level Design ✨ 
 
-Showcase:
-
+✔️ Video Showcase
 
 [![Descripción de la miniatura](https://img.youtube.com/vi/DJUOgIS1M9U/0.jpg)](https://youtu.be/DJUOgIS1M9U)
 
